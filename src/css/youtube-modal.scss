@@ -10,9 +10,17 @@
   overflow: auto; /* Enable scroll if needed */
   background-color: rgb(0,0,0); /* Fallback color */
   background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+
+  iframe {
+    display: block;
+    margin: 15% auto;
+  }
 }
 
-iframe {
-  display: block;
-  margin: 15% auto;
+
+
+@media (max-width: 425px) {
+  iframe {
+    width: 90%;
+  }
 }
