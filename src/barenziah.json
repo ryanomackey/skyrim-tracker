@@ -1,98 +1,73 @@
-[
-  {
+[{
     "location": "Ansilvund - Ansilvund Burial Chambers",
-    "videoURL": "https://youtu.be/gw1dhm4s0ZA?t=11m37s"
-  },
-  {
+    "videoURL": "https://youtube.com/embed/gw1dhm4s0ZA?start=697"
+}, {
     "location": "Stony Creek Cave",
-    "videoURL": "https://youtu.be/gw1dhm4s0ZA?t=10m49s"
-  },
-  {
+    "videoURL": "https://youtube.com/embed/gw1dhm4s0ZA?start=649"
+}, {
     "location": "Windhelm - House of Clan Shatter-Shield",
-    "videoURL": "https://youtu.be/gw1dhm4s0ZA?t=10m30s"
-  },
-  {
+    "videoURL": "https://youtube.com/embed/gw1dhm4s0ZA?start=630"
+}, {
     "location": "Windhelm - Palace of the Kings",
-    "videoURL": "https://youtu.be/gw1dhm4s0ZA?t=10m12s"
-  },
-  {
+    "videoURL": "https://youtube.com/embed/gw1dhm4s0ZA?start=612"
+}, {
     "location": "Dark Brotherhood Sanctuary",
-    "videoURL": "https://youtu.be/gw1dhm4s0ZA?t=08m32s"
-  },
-  {
+    "videoURL": "https://youtube.com/embed/gw1dhm4s0ZA?start=512"
+}, {
     "location": "Pinewatch - Bandit's Sanctuary",
-    "videoURL": "https://youtu.be/gw1dhm4s0ZA?t=07m44s"
-  },
-  {
+    "videoURL": "https://youtube.com/embed/gw1dhm4s0ZA?start=464"
+}, {
     "location": "Sunderstone Gorge",
-    "videoURL": "https://youtu.be/gw1dhm4s0ZA?t=06m28s"
-  },
-  {
+    "videoURL": "https://youtube.com/embed/gw1dhm4s0ZA?start=388"
+}, {
     "location": "Dainty Sload",
-    "videoURL": "https://youtu.be/gw1dhm4s0ZA?t=02m04s"
-  },
-  {
+    "videoURL": "https://youtube.com/embed/gw1dhm4s0ZA?start=124"
+}, {
     "location": "Reeking Cave",
-    "videoURL": "https://youtu.be/gw1dhm4s0ZA?t=02m49s"
-  },
-  {
+    "videoURL": "https://youtube.com/embed/gw1dhm4s0ZA?start=169"
+}, {
     "location": "Solitude - Blue Palace",
-    "videoURL": "https://youtu.be/gw1dhm4s0ZA?t=03m33s"
-  },
-  {
+    "videoURL": "https://youtube.com/embed/gw1dhm4s0ZA?start=213"
+}, {
     "location": "Solitude - Proudspire Manor",
-    "videoURL": "https://youtu.be/gw1dhm4s0ZA?t=03m50s"
-  },
-  {
+    "videoURL": "https://youtube.com/embed/gw1dhm4s0ZA?start=230"
+}, {
     "location": "Rannveig's Fast",
-    "videoURL": "https://youtu.be/gw1dhm4s0ZA?t=15m04s"
-  },
-  {
+    "videoURL": "https://youtube.com/embed/gw1dhm4s0ZA?start=904"
+}, {
     "location": "Dead Crone Rock",
-    "videoURL": "https://youtu.be/gw1dhm4s0ZA?t=05m17s"
-  },
-  {
+    "videoURL": "https://youtube.com/embed/gw1dhm4s0ZA?start=317"
+}, {
     "location": "Markarth - Treasury House",
-    "videoURL": "https://youtu.be/gw1dhm4s0ZA?t=04m58s"
-  },
-  {
+    "videoURL": "https://youtube.com/embed/gw1dhm4s0ZA?start=298"
+}, {
     "location": "Understone Keep - Dwemer Museum",
-    "videoURL": "https://youtu.be/gw1dhm4s0ZA?t=04m30s"
-  },
-  {
+    "videoURL": "https://youtube.com/embed/gw1dhm4s0ZA?start=270"
+}, {
     "location": "Black-Briar Lodge",
-    "videoURL": "https://youtu.be/gw1dhm4s0ZA?t=14m03s"
-  },
-  {
+    "videoURL": "https://youtube.com/embed/gw1dhm4s0ZA?start=843"
+}, {
     "location": "Mistveil Keep - Jarl's Quarters",
-    "videoURL": "https://youtu.be/gw1dhm4s0ZA?t=14m42s"
-  },
-  {
+    "videoURL": "https://youtube.com/embed/gw1dhm4s0ZA?start=882"
+}, {
     "location": "Dragonsreach Jarl's Quarters",
-    "videoURL": "https://youtu.be/gw1dhm4s0ZA?t=00m25s"
-  },
-  {
+    "videoURL": "https://youtube.com/embed/gw1dhm4s0ZA?start=25"
+}, {
     "location": "Fellglow Keep",
-    "videoURL": "https://youtu.be/gw1dhm4s0ZA?t=16m08s"
-  },
-  {
+    "videoURL": "https://youtube.com/embed/gw1dhm4s0ZA?start=968"
+}, {
     "location": "Jorrvaskr Living Quarters",
-    "videoURL": "https://youtu.be/gw1dhm4s0ZA?t=16m32s"
-  },
-  {
+    "videoURL": "https://youtube.com/embed/gw1dhm4s0ZA?start=992"
+}, {
     "location": "Whiterun Hall of the Dead - Whiterun Catacombs",
-    "videoURL": "https://youtu.be/gw1dhm4s0ZA?t=16m57s"
-  },
-  {
+    "videoURL": "https://youtube.com/embed/gw1dhm4s0ZA?start=1017"
+}, {
     "location": "College of Winterhold - Arch-Mage's Quarters",
-    "videoURL": "https://youtu.be/gw1dhm4s0ZA?t=17m17s"
-  },
-  {
+    "videoURL": "https://youtube.com/embed/gw1dhm4s0ZA?start=1037"
+}, {
     "location": "Hob's Fall Cave",
-    "videoURL": "https://youtu.be/gw1dhm4s0ZA?t=17m40s"
-  },
-  {
+    "videoURL": "https://youtube.com/embed/gw1dhm4s0ZA?start=1060"
+}, {
     "location": "Yngvild - Yngvild Throne Room",
-    "videoURL": "https://youtu.be/gw1dhm4s0ZA?t=18m18s" 
-  }
-]
+    "videoURL": "https://youtube.com/embed/gw1dhm4s0ZA?start=1098"
+}]

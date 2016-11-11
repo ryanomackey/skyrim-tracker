@@ -1,11 +1,13 @@
 'use strict';
 
 import React from 'react';
+import {connect} from 'react-redux';
+import {toggleModal} from '../actions/mainActions';
 
 require('../css/stone-details.scss');
 
 
-export default class StoneDetails extends React.Component {
+class StoneDetails extends React.Component {
   crossOff(e) {
     const location = e.target.innerHTML;
     if (localStorage.getItem(location) === 'true') {
@@ -21,6 +23,10 @@ export default class StoneDetails extends React.Component {
     return localStorage.getItem(stoneLocation) === 'true' ? 'line-through' : 'none';
   }
 
+  toggleModal(videoURL) {
+    this.props.dispatch(toggleModal(videoURL));
+  }
+
   render() {
     const stone = this.props.stone;
 
@@ -31,8 +37,14 @@ export default class StoneDetails extends React.Component {
     return (
       <tr className="stone-container">
         <td onClick={this.crossOff.bind(this)} style={style}>{stone.location}</td>
-        <td><a href="http://youtube.com" target="_blank">Video</a></td>
+        <td onClick={this.toggleModal.bind(this, stone.videoURL)}>Video</td>
       </tr>
     );
   }
 }
+
+export default connect(
+  store => ({
+    main: store.main
+  })
+)(StoneDetails);
